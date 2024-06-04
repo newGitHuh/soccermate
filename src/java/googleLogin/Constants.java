@@ -11,9 +11,9 @@ package googleLogin;
  */
 public class Constants {
 
-	public static String GOOGLE_CLIENT_ID = "658676113995-ddeu9hvgps5dsqdkfk7bpmh2c3qpn388.apps.googleusercontent.com";
+	public static String GOOGLE_CLIENT_ID = "";
 
-	public static String GOOGLE_CLIENT_SECRET = "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";
+	public static String GOOGLE_CLIENT_SECRET = "";
 
 	public static String GOOGLE_REDIRECT_URI = "http://localhost:8080/SoccerMate/LoginGoogleHandler";
 
